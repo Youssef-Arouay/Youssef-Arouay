@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Youssef Arouay
+#  Hi, I'm Youssef Arouay 👋
 
 I am a **Computer Engineering student** at the **National Engineering School of Tunis (ENSIT)**, currently in my third year. I am passionate about software development, web technologies, and constantly expanding my skills. I am seeking a **final-year internship (PFE)** to apply my knowledge and contribute to impactful projects.
 
 ---
 
-## 🛠️ Skills and Technologies
+##  Skills and Technologies 🛠️
 
 - **Programming Languages**: C#, Java, JavaScript, Python
 - **Frameworks**: .NET Core, Spring, React, Angular, Django, Bootstrap, Tailwind
@@ -15,7 +15,7 @@ I am a **Computer Engineering student** at the **National Engineering School of 
 
 ---
 
-## 📚 Projects
+##  Projects 📚
 
 ### 🔹 [Social Media App](https://github.com/YoussefAry22/socialMediaApp)
 - **Tools**: UML, Java, SpringSecurity, TypeScript, React, MySQL, Postman
@@ -38,7 +38,7 @@ I am a **Computer Engineering student** at the **National Engineering School of 
 
 ---
 
-## 💼 Professional Experiences
+##  Professional Experiences 💼
 
 ### 🔹 Engineering Internship at EY (Tunis, June - August 2024)
 - Designed and developed a web platform for sharing knowledge through posts and document interaction.
@@ -52,7 +52,7 @@ I am a **Computer Engineering student** at the **National Engineering School of 
 
 ---
 
-## 🏆 Certifications
+##  Certifications 🏆
 
 - Azure AI Fundamentals
 - Google Data Analytics
@@ -62,15 +62,21 @@ I am a **Computer Engineering student** at the **National Engineering School of 
 
 ---
 
-## 🌟 Associations and Leadership
+##  Associations and Leadership 🌟
 
 - **ENSIT Geeks Club** (President): Organized Hackathons, including Geeks Hack 3.0.
 - **Association Jeune Ingénieurs à Djerba** (Treasurer): Managed sponsorship for the Orient'ini 5.0 event.
 - **ENSIT Junior Entreprise**: Member of the project department.
 
 ---
+##  Fun Facts 🌟
 
-## 🌐 Connect with Me
+- **Languages**: Fluent in French, Arabic; Conversational in English.
+- **Interests**: Karate 🥋, Scuba diving 🐠.
+  
+---
+
+##  Connect with Me 🌐
 
 - [LinkedIn](http://www.linkedin.com/in/youssef-arouay)
 - [GitHub](https://github.com/Youssef-Arouay)
