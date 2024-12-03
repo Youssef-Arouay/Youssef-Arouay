@@ -15,7 +15,7 @@ I am a **Computer Engineering student** at the **National Engineering School of 
 
 ---
 
-## 📚 Academic Projects
+## 📚 Projects
 
 ### 🔹 [Social Media App](https://github.com/YoussefAry22/socialMediaApp)
 - **Tools**: UML, Java, SpringSecurity, TypeScript, React, MySQL, Postman
@@ -32,6 +32,9 @@ I am a **Computer Engineering student** at the **National Engineering School of 
 ### 🔹 Music Genre Classification
 - **Tools**: Python, Flask, Docker, Jenkins
 - Deployed a web application to classify musical genres using **SVM** and **VGG19 models**, containerized with Docker, and automated with Jenkins.
+
+### 🔹 Plant Classification model using AlexNet
+- **Tools**: Python, AlexNet, Google Colab
 
 ---
 
